@@ -9,11 +9,20 @@
 
     <!-- HTMX -->
     <script src="https://unpkg.com/htmx.org@1.6.0"></script>
+    <!-- Adicione o Plotly.js se ainda não estiver incluído -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 <body>
 
     <div class="container mt-4">
         {% block content %}
+            <h1>Gráfico de CO2</h1>
+            <div>
+                {{ form.as_p }} <!-- Renderiza o formulário para filtros -->
+            </div>
+            <div>
+                {{ chart|safe }} <!-- Renderiza o gráfico Plotly -->
+            </div>
         {% endblock %}
     </div>
     
