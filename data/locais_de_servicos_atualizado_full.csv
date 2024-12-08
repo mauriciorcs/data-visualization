@@ -1,0 +1,223 @@
+_mb_row_id,Municipio,Categoria,Nome,Endereco,Latitude,Longitude
+1,João Pessoa,Educação,ECI Liceu Paraibano,"Av. Pres. Getúlio Vargas, S/N - Centro, João Pessoa - PB, 58013-240",-7.12085183,-34.87604226
+2,João Pessoa,Educação,ECIT PROFESSOR OLÍVIO PINTO,"R. Ulisses Alves Pequeno, S/N - Valentina de Figueiredo, João Pessoa - PB, 58064-580",-7.20704425,-34.84347536
+3,João Pessoa,Educação,Escola Estadual Prof. Adélia de França,"R. João Raimundo de Lucena, S/N - Valentina de Figueiredo, João Pessoa - PB, 58063-620",-7.20514837,-34.84846890
+4,João Pessoa,Educação,EEEFM Dr. João Navarro Filho,"RUA PROFESSORA MARIA ALEXANDRINA, R. Egídio de Oliveira Lima, 051 - Valentina de Figueiredo, PB, 58064-375",-7.20213246,-34.85228239
+5,João Pessoa,Educação,EEEF PROF TERCIA BONAVIDES LINS,"RUA VEREADOR FRANCISCO L. CAVALCANTI, 315 - Valentina de Figueiredo, João Pessoa - PB, 58064-280",-7.19940142,-34.83917873
+6,João Pessoa,Educação,EEEFM PROF CELESTIN MALZAC,"R. Profa. Maria Zenaide Brasilino - Conj. Valentina Figueredo I, João Pessoa - PB, 58063-300",-7.19955472,-34.85188803
+7,João Pessoa,Educação,EEEF PROFª RITA DE MIRANDA HENRIQUES,"R. Francisco Porfírio Ribeiro, S/N - Mangabeira IV, João Pessoa - PB, 58057-100",-7.18837606,-34.83942168
+8,João Pessoa,Educação,EEEF Borges da Fonseca,"Av. Cel. Calixto, 58033-455 - Cidade Verde, João Pessoa - PB",-7.18083856,-34.83466073
+9,João Pessoa,Educação,ECITE JOAO ROBERTO BORGES DE SOUZA,"R. Osório Milanês Filho, SN - Mangabeira, João Pessoa - PB, 58056-280",-7.17802901,-34.83940763
+10,João Pessoa,Educação,EEEFM PROFESSORA MARIA JACY COSTA,"R. Dráuzio Férrer, 77 - Mangabeira II, João Pessoa - PB, 58057-360",-7.18012297,-34.84352577
+11,João Pessoa,Educação,Escola Estadual Professora Maria Bronzeado Machado,"Mangabeira II, João Pessoa - PB, 58057-000",-7.18081031,-34.84580696
+12,João Pessoa,Educação,EEEM CON LUIZ GONZAGA DE OLIVEIRA,"R. Janduí Dantas do Nascimento, S/N - Mangabeira I, João Pessoa - PB, 58056-140",-7.17143206,-34.83825110
+13,João Pessoa,Educação,EEEF PEDRO LINS VIEIRA DE MELO,"R. Francisco Pereira de Souza, 130 - Mangabeira I, João Pessoa - PB, 58056-410",-7.16961466,-34.84144463
+14,João Pessoa,Educação,EEEFM Professor José Baptista de Mello,"R. Administrador Manoel Ângelo de Oliveira - Mangabeira, João Pessoa - PB, 58058-200",-7.16440425,-34.83145470
+15,João Pessoa,Educação,ECIT Daura Santiago Rangel,"R. Benício de Oliveira Lima, S/N - José Américo de Almeida, João Pessoa - PB, 58073-180",-7.16806687,-34.85462883
+16,João Pessoa,Educação,Escola Estadual Governador Antônio Mariz,"R. Toni Cássio Rodrigues Estrela, s.n - Cidade dos Funcionários II e III, João Pessoa - PB, 58079-040",-7.18163436,-34.88489361
+17,João Pessoa,Educação,Escola Cidadã Integral Técnica Manoel Lisboa de Moura,"R. Antônio Claudino Leal - Costa e Silva, João Pessoa - PB, 58082-050",-7.17966075,-34.89965184
+18,João Pessoa,Educação,Escola Cidadã Integral Técnica Francisca Ascensão Cunha,"R. Bancário Luiz Gonzaga Gomes da Silva Filho, 68 - Bancários, João Pessoa - PB, 58033-455",-7.14796218,-34.83665479
+19,João Pessoa,Educação,ECIT PRESIDENTE JOÃO GOULART,"R. Cônego Francisco Lima, SN - Castelo Branco, João Pessoa - PB, 58057-034",-7.13643639,-34.85156719
+20,João Pessoa,Educação,ECI PROF PAULO FREIRE,"R. Marli do Nascimento Souza, 57 - João Paulo II, João Pessoa - PB, 58076-117",-7.17828041,-34.87613759
+21,João Pessoa,Educação,EEEF MILTON CAMPOS,"R. Severina Maria Vasconcelos de Carvalho, S/N - Ernesto Geisel, João Pessoa - PB, 58077-156",-7.18306780,-34.86577268
+22,João Pessoa,Educação,ECI Tenente Lucena,"R. Profa. Maria Estér Bezerra Mesquita, SN - Bairro dos Ipês, João Pessoa - PB, 58033-455",-7.10025806,-34.85711253
+23,João Pessoa,Educação,ECIT EEPAC - ECIT PROFESSOR PEDRO AUGUSTO PORTO CAMINHA,"R. Anúbio Lins Falcão, 9999 - Jaguaribe, João Pessoa - PB, 58015-480",-7.13788056,-34.87507970
+24,João Pessoa,Educação,Escola Estadual Escritor Horácio de Almeida,"R. Durval Coutinho, SN - Alto do Mateus, João Pessoa - PB, 58090-260",-7.14071526,-34.91255180
+25,João Pessoa,Educação,ECI LILIOSA DE PAIVA LEITE,"R. Dom Bosco, S/N - Cristo Redentor, João Pessoa - PB, 58070-470",-7.15400511,-34.87791940
+26,João Pessoa,Educação,ECI Compositor Luís Ramalho,"Rua Comerciante Alfredo Ferreira da Rocha, s/n - Mangabeira I, João Pessoa - PB, 58055-541",-7.16825586,-34.84237380
+27,João Pessoa,Educação,ECI Profª Luzia Simões Bartollini,"R. Rad. Geraldo Campos, s/n - Jardim Planalto, João Pessoa - PB, 58088-060",-7.15978041,-34.90093340
+28,João Pessoa,Educação,Escola Estadual Cidadã Integral Cônego Nicodemos Neves,"Lot. Santo Antonio, João Pessoa - PB, 58087-460",-7.15992986,-34.89289083
+29,João Pessoa,Educação,ECI Padre Ibiapina,"R. João de Brito Lima Moura, 478 - Alto do Céu, João Pessoa - PB, 58027-240",-7.09938474,-34.86586795
+30,João Pessoa,Educação,ECIT PAPA PAULO VI,"AV, R. Dep. José Tavares, S/N - Cruz das Armas, João Pessoa - PB, 58085-730",-7.15006322,-34.89355971
+31,João Pessoa,Educação,ECIT Alice Carneiro,"Av. Sapé - Manaíra, João Pessoa - PB, 58038-381",-7.10516835,-34.83675453
+32,João Pessoa,Educação,ECIT CINEASTA LINDUARTE NORONHA,"R. da Luz - Colinas do Sul, João Pessoa - PB, 58069-360",-7.19517142,-34.88085113
+33,João Pessoa,Educação,Escola Estadual CÔNEGO FRANCISCO GOMES DE LIMA,"R. Dep. Petrônio Figueiredo, S/N - Ernesto Geisel, João Pessoa - PB, 58075-410",-7.17719491,-34.86930023
+34,João Pessoa,Educação,ECIT DOM JOSE MARIA PIRES,"R. das Rosas, S/N - B - Bairro das Indústrias, João Pessoa - PB, 58083-332",-7.18301291,-34.91985183
+35,João Pessoa,Educação,Escola Técnica Estadual de João Pessoa,"Av. Hilton Souto Maior, S/N - Mangabeira, João Pessoa - PB, 58055-018",-7.16323991,-34.82547993
+36,João Pessoa,Educação,CEEEA Sesquicentenário,"R. Manoel França, s/n - Pedro Gondim, João Pessoa - PB, 58050-280",-7.11503755,-34.84687815
+37,João Pessoa,Educação,Centro Estadual de Arte - Cearte,"Praça Aristides Lobo, 129 - Centro, João Pessoa - PB, 58010-320",-7.11912661,-34.88486373
+38,João Pessoa,Educação,Cpm Estudante Rebeca Cristina Alves Simoes ,"R. Maria Alves Da Silva, 00 - Mangabeira, João Pessoa - PB, 58058-400",-7.17160351,-34.82844143
+39,João Pessoa,Educação,Cria Capistrano de Abreu Estadual,"R. Aurília Lins Rabêlo, SN - Costa e Silva, João Pessoa - PB, 58081-060",-7.18133018,-34.89743040
+40,João Pessoa,Educação,EEEF Capitulina Sátyro,"R. Valda Cruz Cordeiro, SN - João Agripino, João Pessoa - PB, 58034-050",-7.10611161,-34.84376473
+41,João Pessoa,Educação,Escola Estadual de Ensino Fundamental e Médio José do Patrocínio,"R. Antônio Corrêa da Costa - Funcionários, João Pessoa - PB, 58078-360",-7.18169298,-34.88164645
+42,João Pessoa,Educação,ESCOLA CIDADÃ INTEGRAL PROFESSOR LUIZ GONZAGA DE ALBUQUERQUE BURITY.,"Av. Monsenhor Walfredo Leal, 440 - Centro, João Pessoa - PB, 58020-540",-7.11715161,-34.87414153
+43,João Pessoa,Educação,ECIT Maria do Carmo de Miranda,"Av. João Luiz Ribeiro de Morais, 266 - Jaguaribe, João Pessoa - PB, 58013-230",-7.12731456,-34.88017563
+44,João Pessoa,Educação,ECITOlivina Olivia Carneiro da Cunha,"Av. Duarte da Silveira, 450 - Centro, João Pessoa - PB, 58013-280",-7.12145603,-34.87458345
+45,João Pessoa,Educação,ECIT Padre Hildon Bandeira,"Av. Caetano Filgueiras - Torre, João Pessoa - PB, 58040-040",-7.12121571,-34.86061699
+46,João Pessoa,Educação,ECIT Pedro Anísio Bezerra Dantas,"Rua Gil Furtado, S/N - Bairro dos Ipês, João Pessoa - PB, 58030-206",-7.10581911,-34.85837753
+47,João Pessoa,Educação,ECIT Prefeito Oswaldo Pessoa,"R. Prof. José Holmes, 96 - Ernani Sátiro, João Pessoa - PB, 58080-400",-7.17430985,-34.89445383
+48,João Pessoa,Educação,ECIT Professor Raul Cordula,"Av. Carneiro da Cunha, 3000 - Torre, João Pessoa - PB, 58040-240",-7.12840552,-34.85723770
+49,João Pessoa,Educação,ECIT Raul Machado,"AVENIDA, R. Carneiro Campos, S/N - Ilha do Bpo., João Pessoa - PB, 58011-440",-7.12588041,-34.89863063
+50,João Pessoa,Educação,ECIT Mestre Sivuca,"R. Flor de Iris, 399-333 - Mangabeira, João Pessoa - PB, 58033-455",-7.17720084,-34.82200608
+51,João Pessoa,Educação,EEEF ADELAIDE NOVAIS,"R. Pres. Félix Antônio, 1456-1498 - Cruz das Armas, João Pessoa - PB, 58085-460",-7.15371776,-34.88893299
+52,João Pessoa,Educação,EEEF ALMIRANTE TAMANDARE,"Av. Cmte. Matos Cardoso, SN - Castelo Branco, João Pessoa - PB, 58050-120",-7.13059688,-34.84293170
+53,João Pessoa,Educação,EEEF ANA HIGINA,"R. Dezenove de Março, S/N - Baixo Roger, João Pessoa - PB, 58020-340",-7.11050480,-34.87784620
+54,João Pessoa,Educação,EEEF ANTONIO PESSOA,"Av. Beaurepaire Rohan, 149 - Centro, João Pessoa - PB, 58010-000",-7.11994026,-34.88711370
+55,João Pessoa,Educação,EEEF AZORCERIZ PIRES FERREIRA,"R. Isabel Medeiros Correia - Alto do Céu, João Pessoa - PB, 58027-653",-7.09282501,-34.86441833
+56,João Pessoa,Educação,EEEF CASTRO PINTO,"Av. Cruz das Armas, 1096 - Cruz das Armas, João Pessoa - PB, 58085-000",-7.14179333,-34.89017412
+57,João Pessoa,Educação,Escola Estadual de Ensino Fundamental Profa. Claudina Mangueira de Moura,"R. Carteiro Francisco Inácio do Rêgo Filho - Conj. Ivan Bichara, João Pessoa - PB, 58090-570",-7.13683571,-34.91399307
+58,João Pessoa,Educação,EEEF DOMENICA ANDREA MAGLIANO,"SITIO MUMBABA S/N - Distrito Industrial, PB, 58082-800",-7.18425894,-34.90699448
+59,João Pessoa,Educação,EEEFM. DR. OTAVIO NOVAIS,"AVENIDA SANTOS STANISLAU, R. Zulmira Novais, 1255, João Pessoa - PB, 58088-540",-7.15791116,-34.90606683
+60,João Pessoa,Educação,Escola Estadual de Ensino Fundamental Epitácio Pessoa,"Av. Monsenhor Walfredo Leal, s/n - Tambiá, João Pessoa - PB, 58020-540",-7.11540911,-34.87746143
+61,João Pessoa,Educação,EEEF FRANCISCO CAMPOS,"R. Bourgueville, S/N - Anatólia, João Pessoa - PB, 58052-080",-7.15057091,-34.84492660
+62,João Pessoa,Educação,EEEF FREI MARTINHO,"Av. Des. Novais, S/N - Cruz das Armas, João Pessoa - PB, 58085-450",-7.14282902,-34.88986358
+63,João Pessoa,Educação,EEEF GUSTAVO CAPANEMA,"R. Adão Viana da Rosa, S/N - Grotão, João Pessoa - PB, 58079-846",-7.19036141,-34.88417966
+64,João Pessoa,Educação,ESCOLA ESTADUAL HENRIQUE DIAS,"RUA CARLOS BORROMEU RIBEIRO SEM NUMERO - Alto do Mateus, João Pessoa - PB, 58090-280",-7.14271741,-34.91335286
+65,João Pessoa,Educação,EEEF IRMA SEVERINA CAVALCANTE SOUTO,"R. Rodrigues Chaves, S/N - Centro, João Pessoa - PB, 58011-040",-7.12499201,-34.88543688
+66,João Pessoa,Educação,EEEF ISABEL MARIA DAS NEVES,"Av. João Machado, 484 - Centro, João Pessoa - PB, 58013-520",-7.12623331,-34.88027753
+67,João Pessoa,Educação,EEEF JOAQUIM NABUCO,"R. Frei Vicente Salvador, S/N - Costa e Silva, João Pessoa - PB, 58081-130",-7.17408491,-34.89563030
+68,João Pessoa,Educação,EEEF JOSE VIEIRA,"R. Abdias Gomes de Almeida, S/N - Tambauzinho, João Pessoa - PB, 58042-100",-7.12195866,-34.84459128
+69,João Pessoa,Educação,EEEF PADRE AZEVEDO,"Av. Vasco da Gama, 909 - Jaguaribe, João Pessoa - PB, 58015-180",-7.13608256,-34.87870435
+70,João Pessoa,Educação,EEEF PADRE CICERO ROMAO BATISTA,"R. Jose Betanio, S/N - Mandacaru, João Pessoa - PB, 58027-587",-7.09378540,-34.86109900
+71,João Pessoa,Educação,EEEF PADRE JOÃO FELIX,"R. Porto do Capim - Varadouro, João Pessoa - PB, 58010-570",-7.11084086,-34.88956073
+72,João Pessoa,Educação,EEEF PLACIDO DE CASTRO,"R. Plácido de Castro, 687 - Oitizeiro, João Pessoa - PB, 58088-590",-7.15457126,-34.90051380
+73,João Pessoa,Educação,EEEF PROFª MARIA DE FATIMA SOUTO,"R. José Gomes de Souza, S/N - Mangabeira I, João Pessoa - PB, 58055-420",-7.16422451,-34.84085070
+74,João Pessoa,Educação,EEEFM PROFª MARIA GENY DE SOUSA TIMOTEO,"Av. Monsenhor Walfredo Leal, 551 - Tambiá, João Pessoa - PB, 58020-540",-7.11703626,-34.87308463
+75,João Pessoa,Educação,EEEF PROF MATEUS RIBEIRO,"R. Bom Jesus, 526 - Varjão, João Pessoa - PB, 58070-060",-7.14819541,-34.87075935
+76,João Pessoa,Educação,EEEF PROFª ARGENTINA PEREIRA GOMES,"Av. Camilo De Holanda, SN - Centro, João Pessoa - PB, 58013-360",-7.12192021,-34.87610786
+77,João Pessoa,Educação,EEEF PROFESSOR JOAO JOSE DA COSTA,"Av. Barão de Mamanguape, 199 - Torre, João Pessoa - PB, 58040-330",-7.12153651,-34.86227900
+78,João Pessoa,Educação,EEEF Professora Antônia Rangel de Farias,"Av. Júlia Freire, S/N - Torre, João Pessoa - PB, 58040-040",-7.12126952,-34.86004233
+79,João Pessoa,Educação,EEEF PROFESSORA DAGMAR MENDONCA LIMEIRA,"AV, R. Domingos José da Paixão, 1465 - Muçumagro, João Pessoa - PB, 58066-100",-7.21588547,-34.83852735
+80,João Pessoa,Educação,EEEF SÃO RAFAEL,"VILA - Av. São Rafael, 701 - Castelo Branco, João Pessoa - PB, 58050-630",-7.12879655,-34.84208003
+81,João Pessoa,Educação,EEEFM Audiocomunicação,"Av. Fagundes Varela - Cidade Padre Ze, João Pessoa - PB, 58026-045",-7.10657000,-34.86801057
+82,João Pessoa,Educação,EEEFM BENEDITA TARGINO MARANHAO,"R. Carpinteiro João José Seabra, S/N - Penha, João Pessoa - PB, 58047-050",-7.16302035,-34.80040543
+83,João Pessoa,Educação,Escola Estadual Professor Geraldo Lafayette Bezerra,"R. Felinto de Arruda Escolástico, SN - Cristo Redentor, João Pessoa - PB, 58070-300",-7.15476636,-34.87740403
+84,João Pessoa,Educação,EEEF DES BOTO DE MENEZES,"R. Profa. Rita Miranda, 318 - Treze de Maio, João Pessoa - PB, 58025-280",-7.11145904,-34.86298619
+85,João Pessoa,Educação,EEEF DES BRAZ BARACUHY,"R. Escritor Gilberto Amado, SN - Castelo Branco, João Pessoa - PB, 58050-500",-7.13086571,-34.84781420
+86,João Pessoa,Educação,EEEFM DOMINGOS JOSE DA PAIXAO,"R. João Paulo II - Lot. Quintas de Gramame, João Pessoa - PB, 58066-154",-7.21806692,-34.83490013
+87,João Pessoa,Educação,Escola Estadual Padre Miguelinho,"Av. da Fraternidade, S/N - Cristo Redentor, João Pessoa - PB, 58070-310",-7.15495681,-34.88410333
+88,João Pessoa,Educação,EEEFM GONÇALVES DIAS,"R. Humberto Paiva de Carvalho, S/N - Cristo Redentor, João Pessoa - PB, 58070-330",-7.15207644,-34.87905948
+89,João Pessoa,Educação,EEEFM GRACILIANO RAMOS,"R. Cel. Benevenuto Gonçalves da Costa - Mangabeira, João Pessoa - PB, 58056-020",-7.17245001,-34.83486180
+90,João Pessoa,Educação,Escola Estadual de Educação Infantil e Ensino Fundamental Padre Roma,"Conj. Altiplano Cabo Branco, João Pessoa - PB",-7.13446126,-34.82788883
+91,João Pessoa,Educação,EEEFM PROFª DÉBORA DUARTE,"Rua Adrísio Mota de Sousa, 54 - Cidade dos Funcionários II, João Pessoa - PB, 58078-030",-7.17819521,-34.88812086
+92,João Pessoa,Educação,EEEFM SANTOS DUMONT,"R. das Indústrias, S/N - Bairro das Indústrias, João Pessoa - PB, 58083-050",-7.17677531,-34.91724520
+93,João Pessoa,Educação,EEEF PROF ORLANDO CAVALCANTI GOMES,"R. Pres. Nereu Ramos, S/N - Cristo Redentor, João Pessoa - PB, 58070-440",-7.15706635,-34.87408255
+94,João Pessoa,Educação,ESP-PB Escola de Saúde Pública,"Av. Dom Pedro II, 1826 - Torre, João Pessoa - PB, 58040-440",-7.12890112,-34.86942483
+95,João Pessoa,Educação,Escola Estadual de Música Anthenor Navarro - EEMAN,"Espaço Cultural José Lins do Rêgo - R. Abdias Gomes de Almeida, 800 - Tambauzinho, João Pessoa - PB, 58042-900",-7.12183915,-34.84382363
+96,João Pessoa,Educação,"Escola Técnica Estadual de Arte, Tecnologia e Economia Criativa Poeta Juca Pontes","R. Francisco Londres, 69 - Varadouro, João Pessoa - PB, 58010-150",-7.12022125,-34.89059533
+97,João Pessoa,Educação,Escola Ana Paula Ribeiro Barbosa Lira,"R. João Teixeira de Carvalho - Pedro Gondim, João Pessoa - PB, 58031-220",-7.11733131,-34.84406703
+98,João Pessoa,Educação,Instituto de Educação da Paraíba - IEP,"Av. Camilo De Holanda, S/N - Centro, João Pessoa - PB, 58013-360",-7.12260340,-34.87524606
+99,João Pessoa,Educação,NUCLEO DE EDUCAÇÃO DE JOVENS E ADULTOS DO ENSINO MÉDIO,"Jardim Cidade Universitária, João Pessoa - PB, 58051-900",-7.10876596,-34.87667543
+100,João Pessoa,Trânsito,DETRAN - PB,"R. Márcia Carneiro Morais de Oliveira, s/n - Mangabeira VII, João Pessoa - PB, 58058-280",-7.16624968,-34.82690261
+101,João Pessoa,Trânsito,DETRAN Valentina,"R. Rad. Nilton Francisco dos Santos Junior, 742 - Planalto da Boa Esperança, João Pessoa - PB, 58065-120",-7.19915137,-34.86005683
+102,João Pessoa,Trânsito,DETRAN - Casa da Cidadania Shopping Tambiá,"R. Dep. Odon Bezerra, 184 - Tambiá, João Pessoa - PB, 58020-500",-7.11565200,-34.87993079
+103,João Pessoa,Trânsito,DETRAN-PB Shopping Carro Legal,"R. Afonso Barbosa de Oliveira, 1681 - Brisamar, João Pessoa - PB, 58033-450",-7.10688351,-34.84438956
+104,João Pessoa,Trânsito,DETRAN- PB Shopping do Automóvel,"Rod. Br 230, Km 14 14001 - Lot. Parque Verde, PB, 58102-800",-7.09425031,-34.84671893
+105,João Pessoa,Trânsito,DETRAN - Casa da Cidadania Manaíra Shopping,"Av. Gov. Flávio Ribeiro Coutinho, 805 - Manaíra, João Pessoa - PB, 58037-900",-7.09885491,-34.84498777
+106,João Pessoa,Trânsito,DETRAN - Casa da Cidadania Jaguaribe,"Av. Primeiro de Maio, 146 - Jaguaribe, João Pessoa - PB, 58015-430",-7.13309348,-34.87895968
+107,João Pessoa,Segurança,1ª Delegacia Distrital,"Av. Cruz das Armas - Cruz das Armas, João Pessoa - PB, 58085-000",-7.14841911,-34.89334560
+108,João Pessoa,Segurança,2ª Delegacia Distrital de Polícia Civil,"Av. Dom Pedro I, 842 - Centro, João Pessoa - PB, 58013-020",-7.11858462,-34.87457848
+109,João Pessoa,Segurança,3ª Delegacia Distrital da Polícia Civil,"R. Profa. Eudésia Viêira, 539 - Estados, João Pessoa - PB, 58030-390",-7.11052421,-34.85138115
+110,João Pessoa,Segurança,4ª Delegacia Distrital,"R. Cel. Eduardo Costa - Ernesto Geisel, João Pessoa - PB, 58075-250",-7.17762889,-34.87061003
+111,João Pessoa,Segurança,8ª Delegacia Distrital da Capital,"Avenida Parque - Distrito Industrial, João Pessoa - PB, 58082-030",-7.17613085,-34.90809683
+112,João Pessoa,Segurança,9ª Delegacia Distrital,"R. Josefa Taveira, s/n - Mangabeira, João Pessoa - PB, 58055-018",-7.17128745,-34.83906268
+113,João Pessoa,Segurança,10° Delegacia Distrital de Tambaú,"Av. Nego, 820 - Tambaú, João Pessoa - PB, 58039-101",-7.11356885,-34.82943013
+114,João Pessoa,Segurança,11ª Delegacia Distrital,"R. Inspetora Emilia Mendonca Gomes - Valentina de Figueiredo, João Pessoa - PB, 58064-360",-7.20241365,-34.84354463
+115,João Pessoa,Segurança,12ª Delegacia Distrital em Manaíra,"R. Manoel Medeiros Guedes, 41 - Manaíra, João Pessoa - PB, 58038-360",-7.09838421,-34.83956493
+116,Mamanguape,Educação,ECIT João da Matta Cavalcanti de Albuquerque,"Conjunto Nossa Senhora da Penha I, Mamanguape - PB, 58280-000",-6.84348819,-35.14001003
+117,Mamanguape,Educação,ECI DR GUSTAVO FERNANDES DE LIMA SOBRINHO,"R. Benedito Joel Cordeiro, Mamanguape - PB, 58280-000",-6.84550709,-35.14016183
+118,Mamanguape,Educação,ECI Senador Rui Carneiro,"AVENIDA, R. Sen. Rui Carneiro, 55 - CAMPO, Mamanguape - PB, 58280-000",-6.84100219,-35.13175446
+119,Mamanguape,Educação,EEEF ANTONIO PINTO BARBALHO,"Rod. Governador Mário Covas, E614 - Pitanga da Estrada, Mamanguape - PB, 58280-000",-6.60101248,-35.14446083
+120,Mamanguape,Educação,EEEF DR JOSE A DA TRINDADE,"SITIO CAMARATUBA S/N ZONA RURAL, Mamanguape - PB, 58280-000",-6.84039109,-35.13195860
+121,Mamanguape,Educação,Escola Estadual Umbelina Garcez,"R. Dom Vital, Mamanguape - PB, 58280-000",-6.83845941,-35.13361062
+122,Mamanguape,Educação,Escola Estadual De Ensino Fundamental Antonio Garcez,"Sítio Pindobal Zona Rural, Mamanguape - PB, 58280-000",-6.84284850,-35.09610496
+123,Mamanguape,Educação,EEEF PROFESSOR LUIZ APRIGIO,"R. Pres. João Pessoa, S/N - Centro, Mamanguape - PB, 58280-000",-6.83547967,-35.12137332
+124,Mamanguape,Trânsito,Detran Mamanguape,"R. Pres. João Pessoa, 261, Mamanguape - PB, 58280-000",-6.83342999,-35.11871160
+125,Mamanguape,Segurança,DELAGACIA DE POLICIA DE MAMANGUAPE,"R. Escritor Lima Pinto, 18, Mamanguape - PB, 58280-000",-6.84045404,-35.13077579
+126,Pedra Branca,Educação,Escola Mundo Encantado,"R. CLARO ALVINO, S/N CENTRO, 58790-000 Pedra Branca - PB",-7.42797047,-38.06659864
+127,Pedra Branca,Educação,EM DE EDUCACAO BASICA PROF. LAURA DE SOUSA OLIVEIRA,"R. Adauto Oliveira, Centro, Pedra Branca - PB, 58790-000",-7.42835173,-38.07027422
+128,Pedra Branca,Educação,ECI JOÃO DE SOUSA PRIMO,"R. José Teotônio, Centro, Pedra Branca - PB, 58790-000",-7.42653876,-38.07043277
+129,Pedra Branca,Educação,EEEF RAIMUNDO EPAMINONDAS DE SOUSA,"R. Antonio de Sousa Oliveira, Centro, Pedra Branca - PB, 58790-000",-7.42624393,-38.06779245
+130,Guarabira,Educação,Escola Cidadã Integral José Soares de Carvalho - Colégio Estadual,"R. Henrique Pacífico, 45 - Primavera, Guarabira - PB, 58200-000",-6.85401598,-35.49751694
+131,Guarabira,Educação,"EEEF DEP GUSTAVO AMORIM
+","R. Oséias Amaral, 133 - Cordeiro, Guarabira - PB, 58200-000",-6.84920683,-35.49950764
+132,Guarabira,Educação,E.E.E.F.M. Professor Edgardo Júlio,"R. Hermenegildo Cunha - Nordeste, Guarabira - PB, 58200-000",-6.85823617,-35.48389813
+133,Guarabira,Educação,"EEEF Antenor Navarro
+","R. Pref. Manoel Lordão, 129 - Centro, Guarabira - PB, 58200-000",-6.85565505,-35.48716374
+134,Guarabira,Educação,"EEEM John Kennedy
+","R. John Kenedy, 515 - Bairro Novo, Guarabira - PB, 58200-000",-6.84440424,-35.49448384
+135,Guarabira,Educação,ECIT Monsenhor Emiliano de Cristo,"R. João Lordão, 125 - Nordeste II, Guarabira - PB, 58200-000",-6.85659970,-35.48233055
+136,Guarabira,Educação,"E.E.E.F. Professor Antônio Benvindo
+","R. Napoleão Laureano - Bairro Novo, Guarabira - PB, 58200-000",-6.84494035,-35.49449646
+137,Guarabira,Educação,EEEF Desembargador Pedro Bandeira,"R. José Maurício da Costa, S/N - CONJ. ASSIS CHATEAUBRIAND, Guarabira - PB, 58200-000",-6.86336112,-35.49169540
+138,Guarabira,Educação,ECIT Dom Marcelo Pinto Carvalheira,"R. Otacílio Líra Cabral - Guarabira, PB, 58200-000",-6.87773009,-35.47826513
+139,Guarabira,Educação,EEF Abdon Miranda,"Sítio. São José do Miranda, Guarabira - PB, 58200-000",-6.92531019,-35.39479183
+140,Guarabira,Trânsito,DETRAN Departamento Estadual de Trânsito,"R. Padre Inácio de Almeida, 215 - Bairro Novo, Guarabira - PB, 58200-000",-6.84199619,-35.48829113
+141,Guarabira,Segurança,"Delegacia de Policia de Guarabira
+","Tv. Lodônio de Bulhões, 36-112 - Alto Boa Vista, Guarabira - PB, 58200-000",-6.84825878,-35.50403235
+142,Guarabira,Segurança,"8ª Delegacia da Polícia Civil
+","R. José da Cunha Rego, 180 - Centro, Guarabira - PB, 58200-000",-6.85004037,-35.48897266
+143,Itaporanga,Trânsito,DETRAN Itaporanga PB,"Estr. do Caravelas, 192-194 Itaporanga - PB, 58780-000",-7.31042123,-38.15232816
+144,Piancó,Trânsito,DETRAN Departamento Estadual de Trânsito,"BR-361, 29, Piancó - PB, 58765-000",-7.20806526,-37.95130465
+145,Itaporanga,Segurança,Delegacia Distrital de Itaporanga,"R. Edilma Leite Cavalcanti Olimpio, 126-146 - centro, Itaporanga - PB, 58780-000",-7.31086487,-38.15007907
+146,Campina Grande,Trânsito,Detran,"Av. Francisco Lopes de Almeida, 2296 - Malvinas, Campina Grande - PB, 58417-290",-7.25157536,-35.93003536
+147,Campina Grande,Educação,ECIT Professor Bráulio Maia Júnior,"R. Tranqüilino Coelho Lemos - Dinamérica, Campina Grande - PB, 58432-300",-7.23800462,-35.91711155
+148,Campina Grande,Educação,Escola Poeta Carlos Drumond de Andrade,"R. Caicó - Malvinas, Campina Grande - PB, 58433-496",-7.23051164,-35.92715374
+149,Campina Grande,Educação,"ECI Monte Carmelo
+","R. Prof. Carlos Francisco Medeiros de Almeida, s/n - Centenário, Campina Grande - PB, 58428-158",-7.21979032,-35.90352240
+150,Campina Grande,Educação,Escola Estadual de Ensino Fundamental e Médio Assis Chateaubriand,"R. Paraíba, 240 - Liberdade, Campina Grande - PB, 58410-066",-7.21534200,-35.86788293
+151,Campina Grande,Educação,Escola Normal Estadual Padre Emídio Viana Correia,"Av. Pref. Severino Bezerra Cabral, s/n - Catolé, Campina Grande - PB, 58410-185",-7.22905111,-35.87337609
+152,Campina Grande,Educação,"EEEF SENADOR HUMBERTO LUCENA
+","R. Marcelino Pereira da Rocha, 9 - Cruzeiro, Campina Grande - PB, 58415-483",-7.25283785,-35.90450709
+153,Campina Grande,Educação,"ECI Félix Araújo - Estadual da Liberdade
+","R. Severino Pímentel - Liberdade, Campina Grande - PB, 58414-150",-7.24204355,-35.89369064
+154,Campina Grande,Educação,Escola Cidadã Integral Severino Cabral,"Rua Compositor Noel Rosa - Bodocongó, Campina Grande - PB, 58430-220",-7.22521964,-35.91938749
+155,Campina Grande,Educação,"Escola Estadual Augusto dos Anjos
+","R. Paraíba, 240 - Liberdade, Campina Grande - PB, 58410-066",-7.23174077,-35.88759666
+156,Campina Grande,Educação,"Colégio Estadual da Prata
+","R. Duque de Caxias - Prata, Campina Grande - PB",-7.21986197,-35.89851746
+157,Campina Grande,Educação,Escola Estadual de Ensino Fundamental e Médio Sen. Argemiro de Figueiredo ,"Av. Dr. Elpídio de Almeida, 25 - Catolé, Campina Grande - PB, 58410-215",-7.23748811,-35.87494762
+158,Campina Grande,Educação,"ECI PROF RAUL CORDULA
+","R. Gabio José de Oliveira Araujo, S/Nº - Pres. Medici, Campina Grande - PB, 58415-565",-7.25135005,-35.90629821
+159,Campina Grande,Educação,Escola Estadual de 1º Grau do Monte Santo,"R. Antônieta Cavalcante, 57 - Monte Santo, Campina Grande - PB, 58400-752",-7.21081875,-35.89988914
+160,Campina Grande,Educação,"E.E.E.F. Dom Helder Camara
+","R. Lucioneia Maria da Conceição - Santa Cruz, Campina Grande - PB, 58417-000",-7.23933837,-35.90966623
+161,Campina Grande,Educação,"EEEFM Professor Antônio Oliveira
+","R. Alberto Santos, S/N - Santa Rosa, Campina Grande - PB, 58416-690",-7.23997212,-35.91222160
+162,Campina Grande,Educação,EEEFM DOM LUIZ GONZAGA FERNANDES,"R. das Pitombeiras, SN - Malvinas, Campina Grande - PB, 58432-791",-7.24143973,-35.92623132
+163,Campina Grande,Educação,"EEEF ALCEU DO AMOROSO LIMA
+","R. Conceição B Santiago, SN - Malvinas, Campina Grande - PB, 58432-685",-7.24693162,-35.92683213
+164,Campina Grande,Educação,Escola Estadual Maria Emília O. de Almeida,"R. Dr. Francisco Brasileiro, s/n - Pres. Medici, Campina Grande - PB, 58417-455",-7.24885369,-35.91098350
+165,Campina Grande,Educação,ECI Deputado Álvaro Gaudêncio de Queiroz,"R. dos Jucáis, 39 - Malvinas, Campina Grande - PB, 58432-599",-7.24506473,-35.92154067
+166,Campina Grande,Educação,"EEEF MURILO BRAGA
+","R. Santa Filomena, S/N - Liberdade, Campina Grande - PB, 58414-020",-7.22913663,-35.89280114
+167,Campina Grande,Educação,"Escola Estadual Jose Miguel Leao
+","R. João Miguel Leão - São José da Mata, Campina Grande - PB",-7.18037121,-35.98758192
+168,Campina Grande,Educação,"ECI Professor Itan Pereira
+","R. Luís Mota, S/N - Bodocongó, Campina Grande - PB, 58430-710",-7.21511417,-35.92475386
+169,Campina Grande,Educação,"Escola Estadual Prof Anésio Leão
+","R. Quinze de Novembro, 1055 - Palmeira, Campina Grande - PB, 58401-075",-7.19804404,-35.89727850
+170,Campina Grande,Educação,EEEFM MAJOR VENEZIANO VITAL DO REGO,"RUA MARIA A. CANDIDA S/N - Acácio Figueiredo, Campina Grande - PB, 58421-295",-7.26752457,-35.92096777
+171,Campina Grande,Educação,"EEEF DE APLICACAO
+","Av. Pref. Severino Bezerra Cabral, S/N - Catolé, Campina Grande - PB, 58410-185",-7.22733616,-35.87358923
+172,Campina Grande,Educação,EEEF NOSSA SENHORA DO ROSARIO,"R. Nilo Peçanha, 250 - Prata, Campina Grande - PB, 58400-515",-7.21950241,-35.89659185
+173,Campina Grande,Educação,"EEEFM Doutor Hortensio de Sousa Ribeiro - PREMEM
+","R. Severino Trindade, S/N - Catolé, Campina Grande - PB, 58410-188",-7.23380742,-35.87255926
+174,Campina Grande,Educação,Escola Estadual de Audiocomunicação Demóstenes Cunha Lima,"R. Profa. Eutécia Vital Ribeiro, S/N - Catolé, Campina Grande - PB, 58410-205",-7.24065709,-35.87103963
+175,Campina Grande,Educação,EEEFM CLEMENTINO PROCOPIO,"R. Felipe Camarão, 168 - São José, Campina Grande - PB, 58400-366",-7.22222720,-35.88972540
+176,Campina Grande,Educação,EEEFM ADEMAR VELOSO DA SILVEIRA,"RUA JOAO VIRGOLINO DE ARAUJO, 1043 - Bodocongó, Campina Grande - PB, 58430-385",-7.21609638,-35.91513128
+177,Campina Grande,Educação,"Escola Estadual Irmã Zuleide Porto
+","R. Projetada, 236 - Nova Brasília, Campina Grande - PB, 58406-575",-7.20894366,-35.85504980
+178,Campina Grande,Educação,EEEFM PREFEITO WILLIAMS DE SOUSA ARRUDA,"R. Bruxelas, S/N - Cuités, Campina Grande - PB, 58404-864",-7.18169413,-35.90551824
+179,Campina Grande,Educação,"EEEF NINA ALVES DE LIMA
+","R. Francisco Rosa de Farias, S/N - Monte Santo, Campina Grande - PB, 58400-710",-7.21030609,-35.89865179
+180,Campina Grande,Educação,EEEF Nossa Senhora Aparecida,"R ROSA MARIA BANDEIRA DA SILVA S/N - Mutirão, Campina Grande - PB, 58436-108",-7.22358254,-35.94921623
+181,Campina Grande,Educação,Escola Estadual de 1º e 2º Grau Pe Hildon Bandeira,"R. Pres. João Pessoa, 1485 - Centro, Campina Grande - PB, 58388-000",-7.21438631,-35.89428459
+182,Campina Grande,Educação,"ECI VIRGINIUS DA GAMA E MELO
+","R. Penedo, SN - Malvinas, Campina Grande - PB, 58433-146",-7.23264870,-35.92771912
+183,Campina Grande,Educação,"EEEF DE MONTE SANTO
+","R. Diogo da Costa, 305 - Monte Santo, Campina Grande - PB, 58400-733",-7.21164241,-35.90034910
+184,Campina Grande,Educação,EEEF REITOR EDVALDO,"R. Isolda Barros Torquarto, S/N - Bodocongó, Campina Grande - PB, 58430-290",-7.22479007,-35.91597527
+186,Campina Grande,Trânsito,1ª Ciretran,"1ª Ciretran - Av. Francisco Lopes de Almeida, 2168 - Malvinas, Campina Grande - PB, 58432-570",-7.25090780,-35.93115330
+187,Campina Grande,Trânsito,Casa da Cidadania Shopping Luiza Mota,"R. Sebastião Viêira da Silva, 1395 - Catolé, Campina Grande - PB, 58410-612",-7.23441780,-35.87916270
+188,Campina Grande,Educação,"EEEF SANTO ANTONIO
+","R. Francisco Antonio Nascimento, 1078 - Castelo Branco, Campina Grande - PB, 58407-000",-7.21687359,-35.86600082
+189,Campina Grande,Educação,"Escola Municipal Padre Antonino
+","R. Carlos Alberto Souza, 245 - Bodocongó, Campina Grande - PB, 58430-360",-7.21816211,-35.91554763
+190,Campina Grande,Educação,"EEEF SOLON DE LUCENA
+","R. Pref. Ernane Lauritzen, S/N - Centro, Campina Grande - PB, 58400-133",-7.21537116,-35.88183960
+191,Campina Grande,Educação,"ECIT Irmã Stefanie
+","R. Henrique Nóbrega - Malvinas, Campina Grande - PB, 58400-002",-7.25637593,-35.92467315
+192,Campina Grande,Educação,"EEEFM Nenzinha Cunha Lima
+","R. Fernandes Viêira, S/N - José Pinheiro, Campina Grande - PB, 58407-490",-7.22991753,-35.86674227
+193,Campina Grande,Educação,Estadual da Palmeira,"R. Quinze de Novembro, 1650 - Jardim Continental, Campina Grande - PB, 58401-005",-7.19893540,-35.89579909

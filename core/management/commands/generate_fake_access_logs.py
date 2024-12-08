@@ -7,7 +7,7 @@ class Command(BaseCommand):
     help = 'Generate fake access logs'
 
     def handle(self, *args, **kwargs):
-        services = ['Home', 'Dashboard', 'Profile', 'Settings', 'Reports']
+        services = ['Home', 'Dashboard', 'Profile', 'Settings', 'Reports', 'Teste']
         start_date = datetime.now() - timedelta(days=30)  # Últimos 30 dias
         end_date = datetime.now()
 
